@@ -12,7 +12,7 @@ A Texture Pack for the community of MurderCrumpet :3
 - mace = LONG CRUMP
 
 ## Roadmap 
-- [ ] First Release 
+- [x] First Release 
 - [ ] GayFish
 - [ ] owki parrot
 - [ ] MORE STREAM RELATED MEMES
