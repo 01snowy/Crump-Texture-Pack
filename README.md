@@ -10,3 +10,9 @@ A Texture Pack for the community of MurderCrumpet :3
 - Golden Apple = Crump
 - Totem of undying = crump
 - mace = LONG CRUMP
+
+## Roadmap 
+- [ ] First Release 
+- [ ] GayFish
+- [ ] owki parrot
+- [ ] MORE STREAM RELATED MEMES
